@@ -3,20 +3,20 @@
 ---
 
 @snap[north span-100]
-## CI
+# CI
 @snapend
 
-@snap[midpoint span-100]
+@snap[midpoint span-100 text-20]
 Continuous Integration
 @snapend
 
 ---
 
 @snap[north span-100]
-## CD
+# CD
 @snapend
 
-@snap[midpoint span-100]
+@snap[midpoint span-100 text-20]
 Continuous Delivery
 
 (Continuous Deployment)
