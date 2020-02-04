@@ -1,0 +1,7 @@
+theme: template
+theme-code: [ "Fira Code" ]
+
+title: CI/CD
+logo: https://avatars1.githubusercontent.com/u/38498082?s=200
+
+highlight: atom-one-light
